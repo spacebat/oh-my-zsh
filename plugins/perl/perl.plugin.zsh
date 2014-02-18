@@ -5,6 +5,8 @@
 
 # Aliases ###################################################################
 
+source ~/perl5/perlbrew/etc/bashrc
+
 # perlbrew ########
 alias pbi='perlbrew install'
 alias pbl='perlbrew list'
